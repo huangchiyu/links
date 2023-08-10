@@ -1,0 +1,9 @@
+<img src=
+<br/><img src=
+
+D:/mayun/web-notes/images/python/
+../../src/assets/images/pyhton/
+
+
+images/linux/
+../../src/assets/images/linux/
