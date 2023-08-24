@@ -1,1 +1,0 @@
-import{d as n,C as e,a as o,c as f,i as a}from"./index.d7897120.js";const u=n({__name:"guide",setup(t){return new e("#1d2e35","#79b84f"),o(()=>{new e("#ffffff","#555555")}),(r,s)=>(a(),f("div",null,"guide"))}});export{u as default};
